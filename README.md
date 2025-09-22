@@ -1,7 +1,7 @@
 
 # Zeus Pathtracing Render Engine
 
-A full fledged render engine written in C++ as a part of Saarland University Computer Graphics course.
+A full fledged render engine written in C++, based on the Lightwave render engine but most of the code outside of basic project structure is written by me.
 
 Core project structure is inspired by [Mitsuba Renderer](https://www.mitsuba-renderer.org/), materials from the [PBR Book](https://www.pbr-book.org/) and my university's now internal render engine Lightwave.
 
